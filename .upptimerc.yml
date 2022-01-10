@@ -12,6 +12,6 @@ sites:
   
 status-website:
   
-  baseUrl: uptime/repo
+  baseUrl: /uptime
   name: Your Status Website
   
