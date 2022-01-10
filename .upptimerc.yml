@@ -18,8 +18,3 @@ status-website:
   baseUrl: uptime/repo
   name: Your Status Website
   
-  GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
