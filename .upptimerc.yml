@@ -7,14 +7,11 @@ sites:
     url: https://gymall.de/iserv/
   - name: Moodle
     url: https://moodle.gymall.de/
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Homepage
+    url: https://gymnasium-allermoehe.hamburg.de/
+  
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  
   baseUrl: uptime/repo
   name: Your Status Website
   
