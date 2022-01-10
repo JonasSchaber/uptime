@@ -15,7 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: uptime
+  baseUrl: uptime/repo
   name: Your Status Website
   
   GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
