@@ -9,6 +9,8 @@ sites:
     url: https://moodle.gymall.de/
   - name: Homepage
     url: https://gymnasium-allermoehe.hamburg.de/
+  - name: Kunstgalerie
+    url: https://gymnasium-allermoehe.info/  
   
 status-website:
   
