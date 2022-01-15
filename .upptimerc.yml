@@ -10,7 +10,7 @@ sites:
   - name: Homepage
     url: https://gymnasium-allermoehe.hamburg.de/
   - name: Kunstgalerie
-    url: https://gymnasium-allermoehe.info/  
+    url: gymnasium-allermoehe.info  
   - name: Google
     url: https://www.google.com/  
     
