@@ -6,9 +6,9 @@ sites:
   - name: IServ
     url: https://gymall.de/iserv/
   - name: Moodle
-    url: https://moodle.gymall.de/
+    url: moodle.gymall.de
   - name: Homepage
-    url: https://gymnasium-allermoehe.hamburg.de/
+    url: gymnasium-allermoehe.hamburg.de
   - name: Kunstgalerie
     url: gymnasium-allermoehe.info  
   - name: Google
