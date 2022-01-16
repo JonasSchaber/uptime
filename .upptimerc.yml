@@ -19,5 +19,5 @@ status-website:
   
   baseUrl: /uptime
   name: Your Status Website
-  theme: ocean
+  theme: light
   
