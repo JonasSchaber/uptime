@@ -26,5 +26,6 @@ status-website:
   baseUrl: /uptime
   name: Your Status Website
   theme: light
+  logoUrl: https://gymall.de/iserv/logo/logo.png
   
   
