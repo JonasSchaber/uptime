@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 868,
-    "timeWeek": 862,
-    "timeMonth": 885,
-    "timeYear": 885,
+    "time": 886,
+    "timeDay": 871,
+    "timeWeek": 864,
+    "timeMonth": 886,
+    "timeYear": 886,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2166,
+    "time": 2171,
     "timeDay": 2334,
-    "timeWeek": 2262,
-    "timeMonth": 2166,
-    "timeYear": 2166,
+    "timeWeek": 2265,
+    "timeMonth": 2171,
+    "timeYear": 2171,
     "dailyMinutesDown": {}
   },
   {
@@ -46,21 +46,21 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 3002,
-    "timeDay": 3174,
-    "timeWeek": 2939,
-    "timeMonth": 3002,
-    "timeYear": 3002,
+    "time": 3141,
+    "timeDay": 3457,
+    "timeWeek": 3108,
+    "timeMonth": 3141,
+    "timeYear": 3141,
     "dailyMinutesDown": {
       "2022-01-18": 18
     }
   },
   {
     "name": "Kunstgalerie",
-    "url": "gymnasium-allermoehe.info",
+    "url": "gymnasium-allermoehe.infoo",
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 840,
     "timeMonth": 863,
     "timeYear": 863,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-19": 0
+    }
   },
   {
     "name": "Google",
@@ -84,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 110,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "time": 107,
+    "timeDay": 108,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   }
 ]
