@@ -18,8 +18,7 @@ sites:
   - name: Google
     url: https://www.google.com/
     icon: https://www.google.com/favicon.ico
-  - name: test
-    url: https://thissitedoesnotexist.koj.co/
+  
   
     
   
