@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 885,
-    "timeWeek": 873,
-    "timeMonth": 892,
-    "timeYear": 892,
+    "time": 889,
+    "timeDay": 880,
+    "timeWeek": 870,
+    "timeMonth": 889,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2183,
-    "timeDay": 2341,
-    "timeWeek": 2273,
-    "timeMonth": 2183,
-    "timeYear": 2183,
+    "time": 2181,
+    "timeDay": 2329,
+    "timeWeek": 2268,
+    "timeMonth": 2181,
+    "timeYear": 2181,
     "dailyMinutesDown": {}
   },
   {
@@ -46,33 +46,33 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 3207,
-    "timeDay": 3557,
-    "timeWeek": 3189,
-    "timeMonth": 3207,
-    "timeYear": 3207,
+    "time": 3176,
+    "timeDay": 3478,
+    "timeWeek": 3152,
+    "timeMonth": 3176,
+    "timeYear": 3176,
     "dailyMinutesDown": {
       "2022-01-18": 18
     }
   },
   {
     "name": "Kunstgalerie",
-    "url": "gymnasium-allermoehe.infoo",
+    "url": "gymnasium-allermoehe.info",
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 787,
-    "timeWeek": 837,
-    "timeMonth": 860,
-    "timeYear": 860,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 859,
+    "timeDay": 790,
+    "timeWeek": 836,
+    "timeMonth": 859,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2022-01-19": 0
+      "2022-01-19": 3
     }
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 109,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 106,
+    "timeDay": 107,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   }
 ]
