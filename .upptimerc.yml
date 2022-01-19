@@ -8,10 +8,13 @@ sites:
     icon: https://www.gymall.de/favicon.ico
   - name: Moodle
     url: moodle.gymall.de
+    icon: https://moodle.gymall.de/theme/image.php/boost/theme/1642061074/favicon
   - name: Homepage
     url: gymnasium-allermoehe.hamburg.de
+    icon: https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png
   - name: Kunstgalerie
-    url: gymnasium-allermoehe.info  
+    url: gymnasium-allermoehe.info 
+    icon: https://www.gymall.de/favicon.ico
   - name: Google
     url: https://www.google.com/
     icon: https://www.google.com/favicon.ico
