@@ -24,8 +24,8 @@ sites:
   
 status-website:
   baseUrl: /uptime
-  name: Your Status Website
+  name: System Status Gymnasium Allermöhe
   theme: light
-  logoUrl: https://gymall.de/iserv/logo/logo.png
+  
   
   
