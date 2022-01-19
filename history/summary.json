@@ -61,19 +61,17 @@
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 859,
     "timeDay": 790,
     "timeWeek": 836,
     "timeMonth": 859,
     "timeYear": 859,
-    "dailyMinutesDown": {
-      "2022-01-19": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
