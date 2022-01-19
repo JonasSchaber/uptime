@@ -5,6 +5,7 @@ repo: uptime
 sites:
   - name: IServ
     url: https://gymall.de/iserv/
+    icon: https://www.gymall.de/favicon.ico
   - name: Moodle
     url: moodle.gymall.de
   - name: Homepage
@@ -12,7 +13,8 @@ sites:
   - name: Kunstgalerie
     url: gymnasium-allermoehe.info  
   - name: Google
-    url: https://www.google.com/  
+    url: https://www.google.com/
+    icon: https://www.google.com/favicon.ico
     
   
 status-website:
