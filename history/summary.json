@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 892,
-    "timeDay": 885,
-    "timeWeek": 874,
+    "timeDay": 886,
+    "timeWeek": 875,
     "timeMonth": 892,
     "timeYear": 892,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2178,
-    "timeDay": 2317,
-    "timeWeek": 2262,
-    "timeMonth": 2178,
-    "timeYear": 2178,
+    "time": 2171,
+    "timeDay": 2297,
+    "timeWeek": 2251,
+    "timeMonth": 2171,
+    "timeYear": 2171,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 3167,
-    "timeDay": 3447,
-    "timeWeek": 3143,
-    "timeMonth": 3167,
-    "timeYear": 3167,
+    "time": 3152,
+    "timeDay": 3406,
+    "timeWeek": 3125,
+    "timeMonth": 3152,
+    "timeYear": 3152,
     "dailyMinutesDown": {
       "2022-01-18": 18
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 790,
-    "timeWeek": 836,
-    "timeMonth": 858,
-    "timeYear": 858,
+    "time": 851,
+    "timeDay": 782,
+    "timeWeek": 829,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   },
   {
@@ -84,31 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 109,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 106,
+    "timeDay": 107,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "test",
-    "url": "https://thissitedoesnotexist.com/",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
-    "slug": "test",
-    "status": "down",
-    "uptime": "5.73%",
-    "uptimeDay": "5.73%",
-    "uptimeWeek": "5.73%",
-    "uptimeMonth": "5.73%",
-    "uptimeYear": "5.73%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-01-19": 0
-    }
   }
 ]
