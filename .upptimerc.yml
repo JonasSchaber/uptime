@@ -18,8 +18,8 @@ sites:
     
   
 status-website:
-  
+  baseUrl: /uptime
   name: Your Status Website
   theme: light
-  cname: http://multisite.gymnasium-allermoehe.info/system-status-new/
+  
   
