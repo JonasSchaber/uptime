@@ -13,7 +13,7 @@ sites:
     url: gymnasium-allermoehe.hamburg.de
     icon: https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png
   - name: Kunstgalerie
-    url: gymnasium-allermoehe.info 
+    url: https://it.gymall.de/kunst/
     icon: https://www.gymall.de/favicon.ico
   - name: Google
     url: https://www.google.com/
