@@ -15,9 +15,7 @@ sites:
   - name: Kunstgalerie
     url: https://it.gymall.de/kunst/
     icon: https://www.gymall.de/favicon.ico
-  - name: Google
-    url: https://www.google.com/
-    icon: https://www.google.com/favicon.ico
+  
 
   
   
