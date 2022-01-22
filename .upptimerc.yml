@@ -26,7 +26,7 @@ sites:
 status-website:
   baseUrl: /uptime
   name: System Status Gymnasium Allermöhe
-  themeUrl: https://github.com/JonasSchaber/uptime/blob/master/assets/my-custom-theme.css
+  theme: light
   
   
   
