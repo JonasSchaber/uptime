@@ -81,18 +81,16 @@
     "icon": "https://favicons.githubusercontent.com/hms-studios.de",
     "slug": "test-broke",
     "status": "up",
-    "uptime": "75.24%",
-    "uptimeDay": "75.24%",
-    "uptimeWeek": "75.24%",
-    "uptimeMonth": "75.24%",
-    "uptimeYear": "75.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3263,
     "timeDay": 3263,
     "timeWeek": 3263,
     "timeMonth": 3263,
     "timeYear": 3263,
-    "dailyMinutesDown": {
-      "2022-02-05": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
