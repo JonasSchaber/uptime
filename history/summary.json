@@ -40,9 +40,9 @@
     "url": "gymnasium-allermoehe.hamburg.de",
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -52,6 +52,7 @@
     "timeMonth": 2872,
     "timeYear": 2872,
     "dailyMinutesDown": {
+      "2022-02-10": 0,
       "2022-01-23": 22,
       "2022-01-22": 23,
       "2022-01-18": 18
