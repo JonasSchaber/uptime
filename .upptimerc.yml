@@ -15,6 +15,10 @@ sites:
   - name: Kunstgalerie
     url: https://it.gymall.de/kunst/
     icon: https://www.gymall.de/favicon.ico
+  - name: eduPort
+    url: https://eduport.hamburg.de/
+    icon: https://eduport.hamburg.de/wp-content/uploads/sites/223/2016/04/cropped-icon-1-32x32.jpg
+    
   
   
 
