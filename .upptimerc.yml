@@ -29,6 +29,7 @@ status-website:
   baseUrl: /uptime
   name: System Status Gymnasium Allermöhe
   theme: light
+  css: "body { background-color: transparent }"
   
   
   
