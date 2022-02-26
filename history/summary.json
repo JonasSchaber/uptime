@@ -67,19 +67,19 @@
     "url": "https://it.gymall.de/kunst/",
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4113,
-    "timeDay": 4128,
-    "timeWeek": 5165,
-    "timeMonth": 6873,
-    "timeYear": 4113,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 4098,
+    "timeDay": 3684,
+    "timeWeek": 4967,
+    "timeMonth": 6776,
+    "timeYear": 4098,
     "dailyMinutesDown": {
-      "2022-02-26": 0
+      "2022-02-26": 13
     }
   },
   {
