@@ -1,7 +1,7 @@
 url: https://it.gymall.de/kunst/
-status: down
-code: 503
-responseTime: 4220
-lastUpdated: 2022-03-04T09:35:11.936Z
+status: up
+code: 200
+responseTime: 1892
+lastUpdated: 2022-03-04T22:32:10.597Z
 startTime: Mon Jan 10 2022 21:10:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
