@@ -32,18 +32,18 @@
     "icon": "https://moodle.gymall.de/theme/image.php/boost/theme/1642061074/favicon",
     "slug": "moodle",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 2558,
     "timeDay": 6717,
     "timeWeek": 3550,
     "timeMonth": 2916,
     "timeYear": 2558,
     "dailyMinutesDown": {
-      "2022-09-08": 1
+      "2022-09-08": 21
     }
   },
   {
@@ -89,9 +89,9 @@
     "url": "https://it.gymall.de/kunst/",
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
@@ -101,6 +101,7 @@
     "timeMonth": 4989,
     "timeYear": 5289,
     "dailyMinutesDown": {
+      "2022-09-08": 0,
       "2022-03-15": 17,
       "2022-03-04": 777,
       "2022-03-02": 24,
