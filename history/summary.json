@@ -31,18 +31,20 @@
     "url": "moodle.gymall.de",
     "icon": "https://moodle.gymall.de/theme/image.php/boost/theme/1642061074/favicon",
     "slug": "moodle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2528,
-    "timeDay": 2212,
-    "timeWeek": 2454,
-    "timeMonth": 2648,
-    "timeYear": 2528,
-    "dailyMinutesDown": {}
+    "time": 2558,
+    "timeDay": 6717,
+    "timeWeek": 3550,
+    "timeMonth": 2916,
+    "timeYear": 2558,
+    "dailyMinutesDown": {
+      "2022-09-08": 1
+    }
   },
   {
     "name": "Homepage",
