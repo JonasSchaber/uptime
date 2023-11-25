@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1038,
-    "timeDay": 1368,
-    "timeWeek": 1326,
-    "timeMonth": 1119,
-    "timeYear": 1052,
+    "time": 1039,
+    "timeDay": 1416,
+    "timeWeek": 1363,
+    "timeMonth": 1117,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2023-06-01": 87,
       "2023-05-11": 122,
@@ -37,9 +37,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
     "time": 2093,
-    "timeDay": 2557,
-    "timeWeek": 2187,
-    "timeMonth": 2209,
+    "timeDay": 1931,
+    "timeWeek": 2241,
+    "timeMonth": 2203,
     "timeYear": 1929,
     "dailyMinutesDown": {
       "2023-11-03": 34,
@@ -63,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "96.50%",
-    "time": 4682,
-    "timeDay": 4532,
-    "timeWeek": 3307,
-    "timeMonth": 5827,
-    "timeYear": 4647,
+    "time": 4684,
+    "timeDay": 2814,
+    "timeWeek": 3388,
+    "timeMonth": 5793,
+    "timeYear": 4651,
     "dailyMinutesDown": {
       "2023-10-28": 26,
       "2023-10-27": 68,
@@ -119,8 +119,7 @@
       "2022-12-05": 36,
       "2022-12-02": 502,
       "2022-12-01": 170,
-      "2022-11-29": 15,
-      "2022-11-25": 106
+      "2022-11-29": 15
     }
   },
   {
@@ -134,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2559,
-    "timeDay": 2132,
-    "timeWeek": 1667,
-    "timeMonth": 1673,
-    "timeYear": 2210,
+    "time": 2550,
+    "timeDay": 1494,
+    "timeWeek": 1714,
+    "timeMonth": 1649,
+    "timeYear": 2206,
     "dailyMinutesDown": {
       "2023-10-11": 37,
       "2023-08-22": 35,
@@ -157,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "96.56%",
-    "time": 2334,
-    "timeDay": 2300,
-    "timeWeek": 1836,
-    "timeMonth": 1920,
-    "timeYear": 2258,
+    "time": 2336,
+    "timeDay": 2098,
+    "timeWeek": 1897,
+    "timeMonth": 1910,
+    "timeYear": 2259,
     "dailyMinutesDown": {
       "2023-10-28": 26,
       "2023-10-23": 33,
@@ -210,8 +209,7 @@
       "2022-12-08": 127,
       "2022-12-05": 36,
       "2022-12-02": 503,
-      "2022-12-01": 170,
-      "2022-11-25": 105
+      "2022-12-01": 170
     }
   }
 ]
