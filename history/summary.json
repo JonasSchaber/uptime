@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1048,
-    "timeDay": 1136,
-    "timeWeek": 1069,
-    "timeMonth": 1048,
-    "timeYear": 1059,
+    "time": 1049,
+    "timeDay": 1293,
+    "timeWeek": 1109,
+    "timeMonth": 1057,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2023-11-30": 20,
       "2023-11-29": 42,
@@ -38,10 +38,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 2005,
-    "timeDay": 1841,
-    "timeWeek": 1995,
-    "timeMonth": 1917,
+    "time": 2004,
+    "timeDay": 1943,
+    "timeWeek": 1910,
+    "timeMonth": 1936,
     "timeYear": 1883,
     "dailyMinutesDown": {
       "2023-12-21": 18,
@@ -66,10 +66,10 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "96.80%",
-    "time": 4450,
-    "timeDay": 2505,
-    "timeWeek": 2975,
-    "timeMonth": 3006,
+    "time": 4448,
+    "timeDay": 2732,
+    "timeWeek": 3011,
+    "timeMonth": 3020,
     "timeYear": 4126,
     "dailyMinutesDown": {
       "2024-01-04": 22,
@@ -117,8 +117,7 @@
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 777,
-      "2023-01-25": 74,
-      "2023-01-10": 21
+      "2023-01-25": 74
     }
   },
   {
@@ -128,17 +127,16 @@
     "slug": "kunstgalerie",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2273,
-    "timeDay": 2365,
-    "timeWeek": 1756,
-    "timeMonth": 1761,
+    "time": 2271,
+    "timeDay": 1750,
+    "timeWeek": 1782,
+    "timeMonth": 1724,
     "timeYear": 2050,
     "dailyMinutesDown": {
-      "2024-01-09": 11,
       "2023-12-21": 18,
       "2023-10-11": 37,
       "2023-08-22": 35,
@@ -158,10 +156,10 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "96.86%",
     "time": 2197,
-    "timeDay": 968,
-    "timeWeek": 1477,
-    "timeMonth": 1521,
-    "timeYear": 2045,
+    "timeDay": 1656,
+    "timeWeek": 1516,
+    "timeMonth": 1525,
+    "timeYear": 2029,
     "dailyMinutesDown": {
       "2023-12-13": 56,
       "2023-12-11": 118,
@@ -204,8 +202,7 @@
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 738,
-      "2023-01-25": 52,
-      "2023-01-10": 21
+      "2023-01-25": 52
     }
   }
 ]
