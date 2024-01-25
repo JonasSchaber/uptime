@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1051,
-    "timeDay": 824,
-    "timeWeek": 1168,
-    "timeMonth": 1102,
-    "timeYear": 1059,
+    "time": 1053,
+    "timeDay": 1764,
+    "timeWeek": 1210,
+    "timeMonth": 1128,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2023-11-30": 20,
       "2023-11-29": 42,
@@ -23,8 +23,7 @@
       "2023-05-02": 22,
       "2023-04-21": 42,
       "2023-03-17": 131,
-      "2023-02-13": 60,
-      "2023-01-25": 21
+      "2023-02-13": 60
     }
   },
   {
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1996,
-    "timeDay": 1641,
-    "timeWeek": 2060,
-    "timeMonth": 2037,
-    "timeYear": 1892,
+    "time": 1997,
+    "timeDay": 2543,
+    "timeWeek": 2104,
+    "timeMonth": 2064,
+    "timeYear": 1893,
     "dailyMinutesDown": {
       "2023-12-21": 18,
       "2023-11-03": 34,
@@ -51,8 +50,7 @@
       "2023-10-11": 37,
       "2023-08-22": 36,
       "2023-07-03": 77,
-      "2023-04-25": 20,
-      "2023-01-25": 32
+      "2023-04-25": 20
     }
   },
   {
@@ -61,18 +59,17 @@
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
     "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.83%",
+    "uptime": "98.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "96.79%",
-    "time": 4463,
-    "timeDay": 2803,
-    "timeWeek": 7456,
-    "timeMonth": 3985,
-    "timeYear": 4062,
+    "time": 4452,
+    "timeDay": 3679,
+    "timeWeek": 7535,
+    "timeMonth": 4025,
+    "timeYear": 4051,
     "dailyMinutesDown": {
-      "2024-01-24": 10,
       "2024-01-22": 43,
       "2024-01-04": 22,
       "2023-12-13": 56,
@@ -118,8 +115,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 777,
-      "2023-01-25": 74
+      "2023-03-03": 777
     }
   },
   {
@@ -133,17 +129,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2242,
-    "timeDay": 1686,
-    "timeWeek": 1721,
-    "timeMonth": 1818,
-    "timeYear": 2051,
+    "time": 2243,
+    "timeDay": 2924,
+    "timeWeek": 1840,
+    "timeMonth": 1868,
+    "timeYear": 2053,
     "dailyMinutesDown": {
       "2023-12-21": 18,
       "2023-10-11": 37,
       "2023-08-22": 35,
-      "2023-07-03": 20,
-      "2023-01-25": 63
+      "2023-07-03": 20
     }
   },
   {
@@ -153,17 +148,16 @@
     "slug": "edu-port",
     "status": "up",
     "uptime": "98.14%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.87%",
-    "time": 2165,
-    "timeDay": 1313,
-    "timeWeek": 1911,
-    "timeMonth": 1695,
-    "timeYear": 1989,
+    "time": 2157,
+    "timeDay": 1769,
+    "timeWeek": 1870,
+    "timeMonth": 1711,
+    "timeYear": 1993,
     "dailyMinutesDown": {
-      "2024-01-24": 9,
       "2023-12-13": 56,
       "2023-12-11": 118,
       "2023-10-28": 26,
@@ -204,8 +198,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 738,
-      "2023-01-25": 52
+      "2023-03-03": 738
     }
   }
 ]
