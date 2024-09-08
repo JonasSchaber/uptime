@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1065,
-    "timeDay": 801,
+    "time": 1064,
+    "timeDay": 811,
     "timeWeek": 879,
-    "timeMonth": 1082,
+    "timeMonth": 1081,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-11-30": 20,
@@ -31,10 +31,10 @@
     "uptimeWeek": "93.71%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.85%",
-    "time": 1893,
-    "timeDay": 1670,
-    "timeWeek": 1766,
-    "timeMonth": 1895,
+    "time": 1894,
+    "timeDay": 1748,
+    "timeWeek": 1684,
+    "timeMonth": 1884,
     "timeYear": 1912,
     "dailyMinutesDown": {
       "2024-09-02": 634,
@@ -56,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.68%",
-    "time": 3095,
-    "timeDay": 2102,
-    "timeWeek": 1762,
-    "timeMonth": 1944,
-    "timeYear": 3125,
+    "time": 3091,
+    "timeDay": 1618,
+    "timeWeek": 1765,
+    "timeMonth": 1946,
+    "timeYear": 3123,
     "dailyMinutesDown": {
       "2024-08-24": 49,
       "2024-08-19": 22,
@@ -100,8 +100,7 @@
       "2023-09-26": 31,
       "2023-09-25": 30,
       "2023-09-20": 31,
-      "2023-09-19": 32,
-      "2023-09-09": 24
+      "2023-09-19": 32
     }
   },
   {
@@ -115,11 +114,11 @@
     "uptimeWeek": "93.72%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.87%",
-    "time": 1851,
-    "timeDay": 1478,
-    "timeWeek": 1421,
-    "timeMonth": 1622,
-    "timeYear": 1773,
+    "time": 1850,
+    "timeDay": 1252,
+    "timeWeek": 1403,
+    "timeMonth": 1559,
+    "timeYear": 1772,
     "dailyMinutesDown": {
       "2024-09-02": 633,
       "2023-12-21": 18,
@@ -137,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.75%",
-    "time": 1564,
-    "timeDay": 989,
-    "timeWeek": 1023,
-    "timeMonth": 1302,
-    "timeYear": 1554,
+    "time": 1563,
+    "timeDay": 1030,
+    "timeWeek": 1027,
+    "timeMonth": 1309,
+    "timeYear": 1553,
     "dailyMinutesDown": {
       "2024-08-19": 21,
       "2024-08-17": 46,
@@ -173,8 +172,7 @@
       "2023-09-26": 30,
       "2023-09-25": 30,
       "2023-09-20": 31,
-      "2023-09-19": 30,
-      "2023-09-09": 24
+      "2023-09-19": 30
     }
   }
 ]
