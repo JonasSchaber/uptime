@@ -5,18 +5,18 @@
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "i-serv",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptime": "99.76%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
-    "time": 1063,
-    "timeDay": 964,
-    "timeWeek": 877,
-    "timeMonth": 943,
+    "time": 1064,
+    "timeDay": 1094,
+    "timeWeek": 959,
+    "timeMonth": 962,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2024-09-23": 67,
+      "2024-09-23": 56,
       "2023-11-30": 20,
       "2023-11-29": 42
     }
@@ -33,9 +33,9 @@
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.85%",
     "time": 1884,
-    "timeDay": 1662,
-    "timeWeek": 1455,
-    "timeMonth": 1687,
+    "timeDay": 2076,
+    "timeWeek": 1560,
+    "timeMonth": 1697,
     "timeYear": 1893,
     "dailyMinutesDown": {
       "2024-09-02": 634,
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.70%",
-    "time": 3071,
-    "timeDay": 1737,
-    "timeWeek": 1699,
-    "timeMonth": 1769,
-    "timeYear": 3080,
+    "time": 3070,
+    "timeDay": 2201,
+    "timeWeek": 1796,
+    "timeMonth": 1784,
+    "timeYear": 3076,
     "dailyMinutesDown": {
       "2024-08-24": 49,
       "2024-08-19": 22,
@@ -98,8 +98,7 @@
       "2023-10-04": 34,
       "2023-09-28": 30,
       "2023-09-27": 31,
-      "2023-09-26": 31,
-      "2023-09-25": 30
+      "2023-09-26": 31
     }
   },
   {
@@ -113,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.87%",
-    "time": 1810,
-    "timeDay": 1436,
-    "timeWeek": 1301,
-    "timeMonth": 1405,
-    "timeYear": 1728,
+    "time": 1807,
+    "timeDay": 1789,
+    "timeWeek": 1380,
+    "timeMonth": 1413,
+    "timeYear": 1727,
     "dailyMinutesDown": {
       "2024-09-02": 633,
       "2023-12-21": 18,
@@ -135,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 1547,
-    "timeDay": 1060,
-    "timeWeek": 889,
-    "timeMonth": 1002,
-    "timeYear": 1520,
+    "time": 1546,
+    "timeDay": 1130,
+    "timeWeek": 940,
+    "timeMonth": 1003,
+    "timeYear": 1517,
     "dailyMinutesDown": {
       "2024-08-19": 21,
       "2024-08-17": 46,
@@ -168,8 +167,7 @@
       "2023-10-04": 34,
       "2023-09-28": 28,
       "2023-09-27": 30,
-      "2023-09-26": 30,
-      "2023-09-25": 30
+      "2023-09-26": 30
     }
   }
 ]
