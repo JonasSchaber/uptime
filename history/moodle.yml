@@ -1,7 +1,7 @@
 url: moodle.gymall.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-20T23:21:49.606Z
+status: up
+code: 200
+responseTime: 1433
+lastUpdated: 2025-02-20T23:35:45.340Z
 startTime: 2022-01-10T20:35:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
