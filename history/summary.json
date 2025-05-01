@@ -13,7 +13,7 @@
     "time": 1062,
     "timeDay": 852,
     "timeWeek": 1081,
-    "timeMonth": 1021,
+    "timeMonth": 1029,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2024-11-19": 49,
@@ -41,7 +41,7 @@
     "time": 1873,
     "timeDay": 1813,
     "timeWeek": 2292,
-    "timeMonth": 1855,
+    "timeMonth": 1866,
     "timeYear": 1845,
     "dailyMinutesDown": {
       "2025-03-17": 23,
@@ -63,7 +63,7 @@
     "time": 2190,
     "timeDay": 1810,
     "timeWeek": 1957,
-    "timeMonth": 2087,
+    "timeMonth": 2095,
     "timeYear": 1943,
     "dailyMinutesDown": {
       "2025-04-10": 38,
@@ -103,17 +103,16 @@
     "slug": "kunstgalerie",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1796,
     "timeDay": 2315,
     "timeWeek": 2519,
-    "timeMonth": 2177,
+    "timeMonth": 2185,
     "timeYear": 1717,
     "dailyMinutesDown": {
-      "2025-04-30": 12,
       "2025-03-17": 213,
       "2024-09-02": 633
     }
@@ -132,7 +131,7 @@
     "time": 1249,
     "timeDay": 845,
     "timeWeek": 1048,
-    "timeMonth": 1026,
+    "timeMonth": 1029,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-04-11": 40,
