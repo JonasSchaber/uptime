@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 1050,
-    "timeDay": 2662,
-    "timeWeek": 1281,
-    "timeMonth": 1049,
+    "timeDay": 1195,
+    "timeWeek": 1255,
+    "timeMonth": 1056,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2024-11-19": 49,
@@ -39,9 +39,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.79%",
     "time": 1932,
-    "timeDay": 2174,
-    "timeWeek": 1751,
-    "timeMonth": 1636,
+    "timeDay": 2434,
+    "timeWeek": 1835,
+    "timeMonth": 1659,
     "timeYear": 1958,
     "dailyMinutesDown": {
       "2025-08-12": 21,
@@ -67,11 +67,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "95.60%",
-    "time": 1925,
-    "timeDay": 2477,
-    "timeWeek": 2167,
-    "timeMonth": 2032,
-    "timeYear": 1998,
+    "time": 1926,
+    "timeDay": 2242,
+    "timeWeek": 2089,
+    "timeMonth": 2042,
+    "timeYear": 1999,
     "dailyMinutesDown": {
       "2025-08-18": 45,
       "2025-08-01": 27,
@@ -109,8 +109,7 @@
       "2024-10-31": 30,
       "2024-10-28": 39,
       "2024-10-18": 65,
-      "2024-08-24": 49,
-      "2024-08-19": 22
+      "2024-08-24": 49
     }
   },
   {
@@ -119,18 +118,19 @@
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.55%",
-    "uptimeMonth": "80.34%",
-    "uptimeYear": "98.20%",
+    "uptimeWeek": "7.10%",
+    "uptimeMonth": "78.62%",
+    "uptimeYear": "98.06%",
     "time": 2061,
-    "timeDay": 1625,
-    "timeWeek": 1756,
-    "timeMonth": 1805,
-    "timeYear": 2223,
+    "timeDay": 1780,
+    "timeWeek": 1632,
+    "timeMonth": 1799,
+    "timeYear": 2224,
     "dailyMinutesDown": {
-      "2025-08-18": 804,
+      "2025-08-19": 114,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -152,10 +152,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "95.64%",
-    "time": 1101,
-    "timeDay": 1433,
-    "timeWeek": 1120,
-    "timeMonth": 1062,
+    "time": 1100,
+    "timeDay": 1341,
+    "timeWeek": 1101,
+    "timeMonth": 1071,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-08-01": 27,
@@ -187,8 +187,7 @@
       "2024-12-18": 39,
       "2024-12-04": 46,
       "2024-11-09": 24,
-      "2024-10-18": 65,
-      "2024-08-19": 21
+      "2024-10-18": 65
     }
   }
 ]
