@@ -1,7 +1,7 @@
 url: https://eduport.hamburg.de/
-status: up
-code: 200
-responseTime: 931
-lastUpdated: 2025-12-01T23:25:23.497Z
+status: down
+code: 503
+responseTime: 909
+lastUpdated: 2025-12-02T04:42:21.760Z
 startTime: 2022-02-23T18:33:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
