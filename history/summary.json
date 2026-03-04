@@ -10,10 +10,10 @@
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.96%",
-    "time": 1118,
-    "timeDay": 1141,
-    "timeWeek": 1079,
-    "timeMonth": 1209,
+    "time": 1117,
+    "timeDay": 1193,
+    "timeWeek": 1055,
+    "timeMonth": 1202,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2026-03-03": 111,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 1967,
-    "timeDay": 1379,
-    "timeWeek": 1866,
-    "timeMonth": 1862,
+    "timeDay": 2165,
+    "timeWeek": 1886,
+    "timeMonth": 1848,
     "timeYear": 1987,
     "dailyMinutesDown": {
       "2025-10-14": 706,
@@ -57,16 +57,16 @@
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
     "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "97.09%",
+    "uptime": "98.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.30%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "94.71%",
-    "time": 2127,
-    "timeDay": 1719,
-    "timeWeek": 1957,
-    "timeMonth": 2077,
-    "timeYear": 2157,
+    "time": 2128,
+    "timeDay": 2477,
+    "timeWeek": 1968,
+    "timeMonth": 2082,
+    "timeYear": 2158,
     "dailyMinutesDown": {
       "2026-03-02": 153,
       "2026-03-01": 77,
@@ -134,8 +134,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1049,
       "2025-04-10": 38,
-      "2025-04-06": 79,
-      "2025-03-04": 181
+      "2025-04-06": 79
     }
   },
   {
@@ -149,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "85.68%",
-    "time": 2104,
-    "timeDay": 1264,
-    "timeWeek": 1675,
-    "timeMonth": 1664,
-    "timeYear": 2185,
+    "time": 2105,
+    "timeDay": 1362,
+    "timeWeek": 1583,
+    "timeMonth": 1660,
+    "timeYear": 2182,
     "dailyMinutesDown": {
       "2026-02-23": 56,
       "2025-12-22": 32,
@@ -221,13 +220,13 @@
     "slug": "edu-port",
     "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "97.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.33%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "94.75%",
     "time": 1196,
-    "timeDay": 939,
-    "timeWeek": 1064,
+    "timeDay": 1281,
+    "timeWeek": 1053,
     "timeMonth": 1130,
     "timeYear": 1222,
     "dailyMinutesDown": {
@@ -290,8 +289,7 @@
       "2025-05-05": 1048,
       "2025-04-11": 40,
       "2025-04-10": 37,
-      "2025-04-06": 78,
-      "2025-03-04": 180
+      "2025-04-06": 78
     }
   }
 ]
