@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1140,
-    "timeDay": 2354,
-    "timeWeek": 2052,
-    "timeMonth": 1355,
-    "timeYear": 1166,
+    "time": 1145,
+    "timeDay": 2931,
+    "timeWeek": 2337,
+    "timeMonth": 1414,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2026-03-09": 368,
       "2026-03-03": 111,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 1959,
-    "timeDay": 2853,
-    "timeWeek": 2112,
-    "timeMonth": 1906,
-    "timeYear": 1954,
+    "time": 1961,
+    "timeDay": 2706,
+    "timeWeek": 2308,
+    "timeMonth": 1946,
+    "timeYear": 1948,
     "dailyMinutesDown": {
       "2026-03-19": 42,
       "2025-10-14": 706,
@@ -48,8 +48,7 @@
       "2025-06-13": 27,
       "2025-06-10": 83,
       "2025-05-27": 77,
-      "2025-05-18": 82,
-      "2025-05-12": 17
+      "2025-05-18": 82
     }
   },
   {
@@ -61,13 +60,13 @@
     "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "96.23%",
-    "time": 2141,
-    "timeDay": 2197,
-    "timeWeek": 2089,
-    "timeMonth": 2161,
-    "timeYear": 2179,
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "96.51%",
+    "time": 2142,
+    "timeDay": 2131,
+    "timeWeek": 2094,
+    "timeMonth": 2166,
+    "timeYear": 2181,
     "dailyMinutesDown": {
       "2026-04-20": 139,
       "2026-04-11": 39,
@@ -138,8 +137,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -148,16 +146,16 @@
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
     "status": "up",
-    "uptime": "96.61%",
+    "uptime": "96.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.71%",
     "time": 2175,
-    "timeDay": 2641,
-    "timeWeek": 2052,
-    "timeMonth": 1813,
-    "timeYear": 2097,
+    "timeDay": 1395,
+    "timeWeek": 1954,
+    "timeMonth": 1804,
+    "timeYear": 2077,
     "dailyMinutesDown": {
       "2026-03-19": 42,
       "2026-03-05": 15,
@@ -225,16 +223,16 @@
     "icon": "https://eduport.hamburg.de/wp-content/uploads/sites/223/2016/04/cropped-icon-1-32x32.jpg",
     "slug": "edu-port",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "96.32%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "96.59%",
     "time": 1176,
-    "timeDay": 1052,
-    "timeWeek": 978,
-    "timeMonth": 1066,
-    "timeYear": 1218,
+    "timeDay": 877,
+    "timeWeek": 982,
+    "timeMonth": 1068,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2026-04-20": 139,
       "2026-04-11": 38,
@@ -294,8 +292,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   }
 ]
