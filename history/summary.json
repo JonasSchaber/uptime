@@ -56,13 +56,13 @@
     "url": "gymnasium-allermoehe.hamburg.de",
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "98.80%",
-    "time": 2159,
+    "time": 2158,
     "timeDay": 2793,
     "timeWeek": 2592,
     "timeMonth": 2276,
@@ -130,7 +130,8 @@
       "2026-04-10": 32,
       "2026-04-11": 39,
       "2026-04-20": 139,
-      "2026-05-26": 210
+      "2026-05-26": 210,
+      "2026-06-09": 5
     }
   },
   {
@@ -139,7 +140,7 @@
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
     "status": "up",
-    "uptime": "96.67%",
+    "uptime": "96.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -215,9 +216,9 @@
     "url": "https://eduport.hamburg.de/",
     "icon": "https://eduport.hamburg.de/wp-content/uploads/sites/223/2016/04/cropped-icon-1-32x32.jpg",
     "slug": "edu-port",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "98.89%",
@@ -278,7 +279,8 @@
       "2026-04-10": 31,
       "2026-04-11": 38,
       "2026-04-20": 139,
-      "2026-05-26": 205
+      "2026-05-26": 205,
+      "2026-06-09": 0
     }
   }
 ]
